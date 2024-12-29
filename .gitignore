@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+ExitSave/lib/*
+.idea/*
+ExitSave.sln.DotSettings.user
